@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{C880F675-616C-0A86-1A61-32892A3347A4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MushroomStair.cs" Line="17" Column="2" />
+      <File FileName="Assets/Scripts/FireStair.cs" Line="21" Column="42" />
+      <File FileName="Assets/Scripts/Player.cs" Line="64" Column="43" />
+      <File FileName="Assets/Scripts/Egg.cs" Line="18" Column="20" />
+      <File FileName="Assets/Scripts/StairSpawner.cs" Line="71" Column="4" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="83" Column="25" />
+      <File FileName="Assets/Scripts/AudioManager.cs" Line="25" Column="31" />
+      <File FileName="Assets/Scripts/EggStair.cs" Line="29" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Flying_220Yoshi00 PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
